@@ -18,7 +18,7 @@
 <p style="text-align:center">- A passionate Front End Developer
 </p>
 <p style="text-align:center">- Currently improving my Web Development knowledge</p>
-<p style="text-align:center">- Personal website [link](https://oriol-raventos.netlify.app/)</p>
+<p style="text-align:center">- Personal website https://oriol-raventos.netlify.app/</p>
 <p style="text-align:center">- I’m currently open for an Intern or a new job opportunity</p>
 
 <picture> <img align="center" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" max-width = 250px></picture>
