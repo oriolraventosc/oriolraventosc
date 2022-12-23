@@ -20,7 +20,7 @@
 - Personal website [link](https://oriol-raventos.netlify.app/)
 - I’m currently open for an Intern or a new job opportunity
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" max-width = 250px></picture>
+<picture> <img align="center" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" max-width = 250px></picture>
 
 
 
