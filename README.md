@@ -11,14 +11,15 @@
 
 	
 ## About me
-<div style="display:flex; flex-direction:row; justify-content:center; align-items:center">
+<div style="display:flex; flex-direction:column; justify-content:center; align-items:center">
 
 
 
-- A passionate Front-end developer
-- Currently improving my Web Development knowledge
-- Personal website [link](https://oriol-raventos.netlify.app/)
-- I’m currently open for an Intern or a new job opportunity
+<p style="text-align:center">- A passionate Front-end developer
+</p>
+<p style="text-align:center">- Currently improving my Web Development knowledge</p>
+<p style="text-align:center">- Personal website [link](https://oriol-raventos.netlify.app/)</p>
+<p style="text-align:center">- I’m currently open for an Intern or a new job opportunity</p>
 
 <picture> <img align="center" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" max-width = 250px></picture>
 
