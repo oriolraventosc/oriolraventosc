@@ -11,7 +11,7 @@
 
 	
 ## About me
-<div style="display:flex; flex-direction:column; justify-content:center; align-items:center">
+<div style="display:flex; flex-direction:row; justify-content:center; align-items:center">
 
 
 
