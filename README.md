@@ -15,7 +15,7 @@
 
 
 
-<p style="text-align:center">- A passionate Front-end developer
+<p style="text-align:center">- A passionate Front End Developer
 </p>
 <p style="text-align:center">- Currently improving my Web Development knowledge</p>
 <p style="text-align:center">- Personal website [link](https://oriol-raventos.netlify.app/)</p>
