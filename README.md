@@ -11,21 +11,13 @@
 
 	
 ## About me
-<div style="display:flex; flex-direction:column; justify-content:center; align-items:center">
-
-
-
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 <p style="text-align:center">- A passionate Front End Developer
 </p>
 <p style="text-align:center">- Currently improving my Web Development knowledge</p>
 <p style="text-align:center">- Personal website https://oriol-raventos.netlify.app/</p>
 <p style="text-align:center">- I’m currently open for an Intern or a new job opportunity</p>
 
-<picture> <img align="center" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" max-width = 250px></picture>
-
-
-
-</div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
