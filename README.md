@@ -38,11 +38,19 @@
      ![SASS](https://img.shields.io/badge/SASS%20-%2523F7DF1E.svg?style=for-the-badge&logo=sass&logoColor=white&color=orange)
      ![JEST](https://img.shields.io/badge/Jest%20-%2523F7DF1E.svg?style=for-the-badge&logo=jest&logoColor=white&color=informational)
      ![GIT](https://img.shields.io/badge/Git%20-%2523F7DF1E.svg?style=for-the-badge&logo=git&logoColor=white&color=critical)
-     ![STYLED COMPONENTS](https://img.shields.io/badge/StyledComponents%20-%2523F7DF1E.svg?style=for-the-badge&logo=styledcomponents&logoColor=white&color=blueviolet)
+     ![STYLED-COMPONENTS](https://img.shields.io/badge/StyledComponents%20-%2523F7DF1E.svg?style=for-the-badge&logo=styledcomponents&logoColor=white&color=blueviolet)
      ![NODE.js](https://img.shields.io/badge/Node.js%20-%2523F7DF1E.svg?style=for-the-badge&logo=node.js&logoColor=white&color=brightgreen)
      ![EXPRESS](https://img.shields.io/badge/express%20-%2523F7DF1E.svg?style=for-the-badge&logo=express&logoColor=white&color=yellow)
      ![MONGO.DB](https://img.shields.io/badge/mongodb%20-%2523F7DF1E.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=brightgreen)
-
+    ![BEM](https://img.shields.io/badge/bem%20-%2523F7DF1E.svg?style=for-the-badge&logo=bem&logoColor=white&color=blueviolet)
+     ![MULTER](https://img.shields.io/badge/multer%20-%2523F7DF1E.svg?style=for-the-badge&logo=multer&logoColor=white&color=red)
+     ![SUPABASE](https://img.shields.io/badge/supabase%20-%2523F7DF1E.svg?style=for-the-badge&logo=supabase&logoColor=white&color=blue)
+     ![SHARP](https://img.shields.io/badge/Sharp%20-%2523F7DF1E.svg?style=for-the-badge&logo=sharp&logoColor=white&color=yellow)
+     ![JSONWEBTOKEN](https://img.shields.io/badge/jsonwebtoken%20-%2523F7DF1E.svg?style=for-the-badge&logo=jsonwebtoken&logoColor=white&color=brightgreen)
+     ![BCRYPT](https://img.shields.io/badge/bcrypt%20-%2523F7DF1E.svg?style=for-the-badge&logo=bcrypt&logoColor=white&color=blueviolet)
+     ![CYPRESS](https://img.shields.io/badge/cypress%20-%2523F7DF1E.svg?style=for-the-badge&logo=cypress&logoColor=white&color=red)
+     ![REACT-TESTING-LIBRARY](https://img.shields.io/badge/ReactTestingLibrary%20-%2523F7DF1E.svg?style=for-the-badge&logo=react-testing-library&logoColor=white&color=blue)
+     ![MONGOOSE](https://img.shields.io/badge/mongoose%20-%2523F7DF1E.svg?style=for-the-badge&logo=mongoose&logoColor=white&color=yellow)
 
 </p>
 
@@ -115,3 +123,4 @@
 <br>
 <br>
 <br>
+
