@@ -103,7 +103,7 @@
 <br>
 
 <a href="https://instagram.com/oraventosc/" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  oraventosc-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=instagram&logoColor=white&color=blueviolet" alt=twitter style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/instagram:  oraventosc-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=instagram&logoColor=white&color=blueviolet" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 
 	
